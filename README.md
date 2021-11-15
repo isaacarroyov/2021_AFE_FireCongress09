@@ -8,7 +8,7 @@ _Tecnológico Nacional de México Campus Progreso_
 This repository aims to complement the poster shared at the 9th International Fire Ecology and Management Congress, hosted virtually from November 30 to December 3.
 
 Here you can find related topics related to Google Earth Engine (GEE), for example:
-* A script with a step-by-step guide on using, extracting, manipulating and visualizing data from the GEE's JavaScript API 🛰 :earth_americas:
+* A script with a step-by-step guide on using, extracting, manipulating and visualizing data from the GEE's JavaScript API 🛰 (the script in the Code Editor is [here](https://code.earthengine.google.com/5be40ac0ecab27719e4743ae9919bb5a)) :earth_americas:
 * A Jupyter Notebook, with a step-by-step guide on using and extracting data from the GEE's Python API and manipulating and visualizing them with the most common Data Science/Analysis Python libraries 💻
 
 Some of the results are inside the maps and images folders.
