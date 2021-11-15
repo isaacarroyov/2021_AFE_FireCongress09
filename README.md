@@ -1,5 +1,5 @@
 # 9th International Fire Ecology and Management Congress: Google Earth Engine: Data and Information from the Cloud to your House
-Authors: Isaac Arroyo-Velázquez , Enrique Camacho-Pérez  
+Authors: [Isaac Arroyo-Velázquez](https://www.linkedin.com/in/isaacarroyov/) , [Enrique Camacho-Pérez](https://www.linkedin.com/in/ekamacho/)  
 
 _Universidad Autónoma de Yucatán_  
 _Tecnológico Nacional de México Campus Progreso_
