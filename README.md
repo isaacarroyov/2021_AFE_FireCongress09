@@ -12,7 +12,7 @@ Here you can find related topics related to Google Earth Engine (GEE), for examp
 * A Jupyter Notebook, with a step-by-step guide on using and extracting data from the GEE's Python API and manipulating and visualizing them with the most common Data Science/Analysis Python libraries 💻
 
 Some of the results are inside the maps and images folders.
-![examples](figures/examples.jpg | width=100)
+![examples](figures/examples.jpg)
 
 ## Software requirements
 In order to execute the script and the Jupyter Notebook successfully is fundamental to be registered to the Google Earth Engine platform.  Here are some guides that could help ease this procedure :eyeglasses: :
